@@ -1,10 +1,4 @@
 # DATA-TRANSFORMATION-USING-PANDAS
-       
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Google Colab](https://img.shields.io/badge/Google-Colab-orange?logo=googlecolab)
-![License](https://img.shields.io/badge/License-MIT-green)
-# 📊 Sales Analytics Dashboard – Colab
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Google Colab](https://img.shields.io/badge/Google-Colab-orange?logo=googlecolab)
